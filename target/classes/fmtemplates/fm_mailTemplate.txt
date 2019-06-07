@@ -1,0 +1,40 @@
+<html>
+  <body>
+    <p>Dear ${Reporter.firstName Reporter.lastName} </p>
+
+<p>I am pleased to issue you with e-REC Unique IDs for the new cases of rare endocrine conditions that have been reported by your centre. </p>
+     
+       
+
+<p>Unique IDs are created based on the reporting year, month and a random number.  Where several cases of a specific condition have been reported, you have been given an equivalent number of IDs.</p> 
+
+ 
+<p>Age group (Adult or Child)</p>
+
+<p>Reporting Month and Year</p>
+
+<p>Condition name</p>
+
+<p>Case number (for conditions with >1 case)</p>
+
+<p>Unique IDs</p>
+
+ 
+
+<p>Please assign the IDs as you wish for each case of that condition in your local files.  You will also be able to add these IDs in the EuRRECa Core Endocrine Registry.</p>
+
+ 
+
+<p>For more information on e-REC, please visit www.eurreca.net/e-rec</p>
+
+ 
+
+<p>Kind regards</p>
+
+
+<p>EuRRECa e-REC team</p>
+
+<p>info@eurreca.net</p>
+      
+</body>
+</html>
